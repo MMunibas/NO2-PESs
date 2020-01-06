@@ -343,7 +343,7 @@ end if
 !  inquire(file=trim(datapath)//"pes13.kernel", exist=ker3)   ! file_exists will be true if the file exists and false otherwise
 !end if
 
-lambda=0.1d-17
+lambda=0.1d-19
 
 if (.not. stored ) then
 
