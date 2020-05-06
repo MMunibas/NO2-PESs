@@ -18,3 +18,5 @@ Before running the executable make sure that the asymp.dat, .csv and/or .kernel 
 **Cite as**
 
 Juan Carlos San Vicente Veliz, Debasish Koner, Max Schwilk, Raymond J. Bemish and Markus Meuwly, arXiv:1911.04792 [physics.chem-ph]
+
+Juan Carlos San Vicente Veliz, Debasish Koner, Max Schwilk, Raymond J. Bemish and Markus Meuwly,  Phys. Chem. Chem. Phys., 2020, 22, 3927-3939
